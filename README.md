@@ -1,2 +1,1 @@
-# Social_Net
-Instagram social net
+# instagram-social-net
